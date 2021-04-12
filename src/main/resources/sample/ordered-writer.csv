@@ -1,0 +1,2 @@
+"Average outbound after contact work time","StartInterval","EndInterval","After contact work time","Average queue answer time","Contacts abandoned","Contacts abandoned in 15 seconds","Contacts handled incoming","Contacts handled outbound","Contacts answered in 15 seconds","Customer hold time","Contact handle time","Average outbound agent interaction time","Queue"
+"acd_tag_1","2021-02-03T04:30:00.000Z","2021-02-03T05:00:00.000Z","2067","2","3","5","1","200","3","25","2505","100",""
